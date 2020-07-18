@@ -10,6 +10,8 @@ end
 
 def all_phrases(argument)
   puts /It's-a me, Mario!\n/
+  puts /It's Dangerous To Go Alone! Take This.\n/
+  /Thank You Mario! But Our Princess Is In Another Castle!\n/
 end
 
 def link
