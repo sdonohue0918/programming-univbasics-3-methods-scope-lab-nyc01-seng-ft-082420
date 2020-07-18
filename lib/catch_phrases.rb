@@ -11,7 +11,7 @@ end
 def all_phrases(argument)
     puts 'It\'s Dangerous to Go Alone! Take This.'
     puts 'It\'s a-me, Mario!'
-  
+
     puts 'Thank You Mario! But Our Princess Is In Another Castle!'
 end
 
