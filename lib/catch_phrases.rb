@@ -11,4 +11,7 @@ end
 def all_phrases(argument)
   puts 'It\'s-a me, Mario!'
 end
+
+def link
+  puts 'It\'s Dangerous To Go Alone! Take This.'
   
