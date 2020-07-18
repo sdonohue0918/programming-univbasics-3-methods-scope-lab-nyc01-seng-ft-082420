@@ -15,4 +15,4 @@ def all_phrases(argument)
 end
 
 def link
-  puts /It's Dangerous To Go Alone! Take This.\n/
+  puts 'It\'s Dangerous To Go Alone! Take This.\n/'
