@@ -9,7 +9,10 @@ end
 
 
 def all_phrases(argument)
+  if argument == link
     puts 'It\'s Dangerous to Go Alone! Take This.'
+  elsif argument == mario
+
     puts 'It\'s a-me, Mario!'
 
     puts 'Thank You Mario! But Our Princess Is In Another Castle!'
