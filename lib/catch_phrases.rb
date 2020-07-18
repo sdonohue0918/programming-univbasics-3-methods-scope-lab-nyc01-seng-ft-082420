@@ -6,3 +6,9 @@ end
 def toadstool
   puts 'Thank you Mario! But Our Princess Is In Another Castle!'
 end
+
+
+def all_phrases(argument)
+  puts 'It\'s-a me, Mario!'
+end
+  
