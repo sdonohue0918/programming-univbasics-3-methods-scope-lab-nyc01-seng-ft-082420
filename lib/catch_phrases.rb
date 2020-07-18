@@ -14,8 +14,11 @@ def all_phrases(argument)
   elsif argument == mario
 
     puts 'It\'s a-me, Mario!'
+  elsif argument == toadstool
 
     puts 'Thank You Mario! But Our Princess Is In Another Castle!'
+  else
+    puts "renob"
 end
 
 def link
