@@ -15,15 +15,10 @@ end
 
 
 def all_phrases(argument)
-  if argument == link
-    puts link
-  elsif argument == mario
-
-    puts mario
-  elsif argument == toadstool
-
-    puts toadstool
-  else
-    puts "renob"
+  if argument == link || mario || toadstool
+    puts 'It\'s Dangerous To Go Alone! Take This.'
+    puts 'It\'s-a me, Mario!'
+    puts 'Thank You Mario! But Our Princess Is In Another Castle!'
+    
 end
 end
