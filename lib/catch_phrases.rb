@@ -9,7 +9,7 @@ end
 
 
 def all_phrases(argument)
-  puts 'It\'s-a me, Mario!'
+  puts /It's-a me, Mario!\n/
 end
 
 def link
