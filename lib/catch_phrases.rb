@@ -26,3 +26,4 @@ def all_phrases(argument)
   else
     puts "renob"
 end
+end
